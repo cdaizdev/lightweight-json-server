@@ -10,5 +10,7 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
-This software is given as is.
-You shouldn't expect updates.
+This software is updated to the last version of Node.
+
+## Updates
+You shouldn't expect updates from this software
